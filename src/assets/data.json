@@ -1,0 +1,30 @@
+[
+    {
+        "path":"/home",
+        "oneTitle":"首页",
+        "children":[
+            {
+                "path":"/homeOne",
+                "twoTitle":"首页---one页"
+            },
+            {
+                "path":"/homeTwo",
+                "twoTitle":"首页---two页"
+            }
+        ]
+    },
+    {
+        "path":"/manager",
+        "oneTitle":"管理",
+        "children":[
+            {
+                "path":"/managerOne",
+                "twoTitle":"管理---one页"
+            },
+            {
+                "path":"/managerTwo",
+                "twoTitle":"管理---two页"
+            }
+        ]
+    }
+]
